@@ -1,0 +1,11 @@
+CANVAS_THICKNESS = 8
+TEXT_THICKNESS = 15
+
+COLORS = [
+    (255,0,255),
+    (255,0,0),
+    (0,255,0),
+    (0,0,255)
+]
+
+MIN_SHAPE_AREA = 2000
